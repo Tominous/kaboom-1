@@ -1,0 +1,6 @@
+name: Kaboom
+main: me.noodles.boom.MainBoom
+version: 0.2
+author: BGHDNetwork
+commands:
+   kaboom:

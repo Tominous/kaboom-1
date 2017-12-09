@@ -1,0 +1,14 @@
+#Made by BGHDNetwork(Noodles)
+#=======================================================
+#Plugin Page: https://www.spigotmc.org/resources/46678
+#=======================================================
+Update:
+  Enabled: true
+#kaboom.update
+#Enables if there is a message on-join when the plugin is outdated. 
+#=======================================================
+Messages:
+  Message1: '&e&lKABOOM!'
+#Message sent to all players when /kaboom is used
+#Set to '' to disable
+#=======================================================
