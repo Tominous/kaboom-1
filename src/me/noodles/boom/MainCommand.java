@@ -21,7 +21,7 @@ public class MainCommand implements CommandExecutor  {
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 		if (cmd.getName().equalsIgnoreCase("kaboom")) {
 			if (!sender.hasPermission("kaboom.use")) {
-			    sender.sendMessage(ChatColor.RED + "(!) You don't have permssion to use this command!");	
+			    sender.sendMessage(ChatColor.RED + "(!) You do not have permssion to use this command!");	
 			}else
 			for (Player players : Bukkit.getOnlinePlayers()) {
 			if (sender.hasPermission("kaboom.use")) {
